@@ -14,4 +14,4 @@ Projeto Java de um serviço de mensagens para troca de informações entre os pa
 
 ## Aviso ❗
 
-Este projeto foi desenvolvido como parte de uma disciplina da universidade, sem fins específicos e testes em ambiente real.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica e visa demonstrar o uso de tecnologias de autenticação por impressão digital. O código fonte e o README são fornecidos "como estão", sem garantias de adequação a um propósito específico ou garantia de funcionamento sem erros. Os desenvolvedores não são responsáveis por quaisquer problemas ou consequências decorrentes do uso deste software.
